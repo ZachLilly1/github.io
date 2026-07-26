@@ -1,1 +1,16 @@
-# Prose Tics — checklist of common prose habits and crutches to catch
+# Checklist: Prose Tics
+
+Hunt these in the line edit. Every writer overuses some; find yours.
+
+- Filtering: "saw," "felt," "noticed," "watched," "heard," "realized." Cut them and deliver the experience direct.
+- Weak verb plus adverb: "walked slowly," "said angrily." Replace with one precise verb.
+- Filler words: "just," "really," "actually," "very," "quite," "somewhat," "a bit."
+- Hedging: "seemed to," "sort of," "kind of," "a little."
+- Throat-clearing: empty transitional sentences that delay the point.
+- Said-bookisms: "exclaimed," "retorted," "expostulated." Use "said."
+- Adverb dialogue tags: "she said angrily." Show the emotion instead.
+- Repeated words: the same distinctive word twice in close range.
+- Overwriting: too many adjectives, strained metaphors, purple prose.
+- Cliché: any phrase you've read a hundred times.
+- On-the-nose dialogue: characters stating their exact feelings and intentions.
+- Em dashes as pauses: restructure, or use periods and commas.
