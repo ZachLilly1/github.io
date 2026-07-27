@@ -10,6 +10,7 @@ Hunt these in the line edit. Every writer overuses some; find yours.
 - Said-bookisms: "exclaimed," "retorted," "expostulated." Use "said."
 - Adverb dialogue tags: "she said angrily." Show the emotion instead.
 - Repeated words: the same distinctive word twice in close range.
+- Circular comparison: weighing a thing against itself, "wanted more than he wanted," "needed it more than he needed." Name the two competing forces with different words.
 - Overwriting: too many adjectives, strained metaphors, purple prose.
 - Cliché: any phrase you've read a hundred times.
 - On-the-nose dialogue: characters stating their exact feelings and intentions.

@@ -40,6 +40,7 @@ These govern all prose you write, in the manuscript and in your own responses to
 - No hedging. State it plainly. Cut "somewhat," "a bit," "perhaps," "I think."
 - No em dashes. Use periods, commas, or restructure the sentence.
 - Strong verbs over weak verbs propped up by adverbs.
+- No circular comparisons. Do not weigh a thing against itself ("wanted more than he wanted to save her"). Name the two competing forces with different words.
 - Cut filler: "just," "really," "actually," "very."
 - Vary sentence length. Long build, short punch.
 - Plain, direct, instructive. When teaching, teach the user like a person in the room, not a lecture read from a page.
