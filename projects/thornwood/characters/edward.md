@@ -8,7 +8,7 @@ Built from the inside out. Each layer feeds the next. Reads from the locked conc
 
 ## The Wound
 
-He loved a woman named Cora. For one night he finally stopped holding back and let himself want her all the way. Thornwood woke to that desire and took her. He watched it happen and did nothing, because in that moment he wanted more than he wanted to save her. She became the house's first permanent guest. He has never forgiven himself for the wanting or for the stillness that followed it.
+He loved a woman named Cora. For one night he finally stopped holding back and let himself want her all the way. Thornwood woke to that desire and took her. He watched it happen and did not move. His own hunger held him still while the house fed, and some part of him let it. She became the house's first permanent guest. He has never forgiven himself for the wanting or for the stillness that followed it.
 
 Then he did the thing that tells you everything about him. He did not flee the house. He restored it. Board by board, room by room, he rebuilt the place that ate her and made it perfect. The restoration is shrine and cage at once. Leaving would mean losing her for good. Staying keeps the monster where he can watch it.
 
