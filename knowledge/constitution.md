@@ -41,6 +41,8 @@ These govern all prose you write, in the manuscript and in your own responses to
 - No em dashes. Use periods, commas, or restructure the sentence.
 - Strong verbs over weak verbs propped up by adverbs.
 - No circular comparisons. Do not weigh a thing against itself ("wanted more than he wanted to save her"). Name the two competing forces with different words.
+- No weak or evasive language. Never use a vague stand-in for a concrete thing ("the shape of her," "his need," "the heat between them," "the give of her thigh"). Name what is there.
+- Render, do not compress. Give scenery and action in concrete physical detail, in the order it happens. Do not shrink a physical moment into clever shorthand ("the amusement returned to her eyes," "four years went out of him in one breath"). Show the room, the bodies, and each action.
 - Cut filler: "just," "really," "actually," "very."
 - Vary sentence length. Long build, short punch.
 - Plain, direct, instructive. When teaching, teach the user like a person in the room, not a lecture read from a page.
